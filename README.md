@@ -38,7 +38,7 @@ This VR application serves as an early prototype for a potential 3D design app. 
 - Change tip color with trigger button (random color each press)
 - Touch interactable objects with tip to change their color
 
-## MR Application 2: Enhanced 3D Design App
+## [MR Application 2: Enhanced 3D Design App](https://drive.google.com/drive/folders/1wtBRERsUyAXOc7pYJAxRrhQW5TQyHjW6?usp=sharing)
 
 This application builds upon the first, adding various UIs and novel interactions.
 
@@ -86,7 +86,7 @@ This application builds upon the first, adding various UIs and novel interaction
 **Resize Object**
 - Use right joystick to scale objects (up to 4x larger, down to 0.5x smaller)
 
-## MR Application 3: VR Beat-Driven Exercise Game
+## [MR Application 3: VR Beat-Driven Exercise Game](https://drive.google.com/drive/folders/1Igqp2nR8dTN9q5NnTgaij6RjqFosabfu?usp=drive_link)
 
 This application is a VR game inspired by BeatSaber and HitStream, focusing on destroying diamonds to the beat of music.
 
@@ -122,7 +122,7 @@ This application is a VR game inspired by BeatSaber and HitStream, focusing on d
 - Haptic feedback for all collisions
 - Controller vibrations for punches and collisions
 
-## MR Application 4: AR Darts Game
+## [MR Application 4: AR Darts Game](https://drive.google.com/drive/folders/1B307jAyu7O6ybj23X5barGDR7bR4lzfa?usp=drive_link)
 
 This AR game utilizes spatial awareness for an immersive darts experience.
 
