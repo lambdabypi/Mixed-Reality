@@ -156,6 +156,3 @@ This AR game utilizes spatial awareness for an immersive darts experience.
 - RESET button to clear game data and anchors
 
 This AR Darts game combines spatial awareness, physics-based interactions, and persistent data to create an engaging and realistic darts experience in augmented reality.
-
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/32279430/eb9e56bf-3b30-4da9-b8e9-31b1b78ae67e/paste.txt
